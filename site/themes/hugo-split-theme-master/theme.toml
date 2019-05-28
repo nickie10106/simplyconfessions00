@@ -11,7 +11,7 @@ features = []
 min_version = "0.21"
 
 [author]
-  name = "Christian Mendoza / Felix Börner"
+  name = "Nickie"
 
 # If porting an existing theme
 [original]
