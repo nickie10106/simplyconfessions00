@@ -1,7 +1,7 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "Casper Theme"
-theme = "hugo-theme-casper"
+title = "Simply Confessions"
+theme = "hugo-split-theme-master"
 disqusShortname = "spf13"
 # Enable Google Analytics by inserting your tracking code
 googleAnalytics = ""
