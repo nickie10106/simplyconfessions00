@@ -14,35 +14,35 @@ paginate = 6
 
   # CSS Plugins
   [[params.plugins.css]]
-  URL = "plugins/bootstrap/bootstrap.min.css"
+  URL = "themes/parsa-hugo/static/plugins/bootstrap/bootstrap.min.css"
   [[params.plugins.css]]
-  URL = "plugins/slick/slick.css"
+  URL = "themes/parsa-hugo/static/plugins/slick/slick.css"
   [[params.plugins.css]]
-  URL = "plugins/themify-icons/themify-icons.css"
+  URL = "themes/parsa-hugo/static/plugins/themify-icons/themify-icons.css"
 
   # JS Plugins
   [[params.plugins.js]]
-  URL = "plugins/jQuery/jquery.min.js"
+  URL = "themes/parsa-hugo/static/plugins/jQuery/jquery.min.js"
   [[params.plugins.js]]
-  URL = "plugins/bootstrap/bootstrap.min.js"
+  URL = "themes/parsa-hugo/static/plugins/bootstrap/bootstrap.min.js"
   [[params.plugins.js]]
-  URL = "plugins/slick/slick.min.js"
+  URL = "themes/parsa-hugo/static/plugins/slick/slick.min.js"
   [[params.plugins.js]]
-  URL = "plugins/headroom/headroom.js"
+  URL = "themes/parsa-hugo/static/plugins/headroom/headroom.js"
   [[params.plugins.js]]
-  URL = "plugins/instafeed/instafeed.min.js"
+  URL = "themes/parsa-hugo/static/plugins/instafeed/instafeed.min.js"
   [[params.plugins.js]]
-  URL = "plugins/masonry/masonry.js"
+  URL = "themes/parsa-hugo/static/plugins/masonry/masonry.js"
   [[params.plugins.js]]
-  URL = "plugins/reading-time/readingTime.min.js"
+  URL = "themes/parsa-hugo/static/plugins/reading-time/readingTime.min.js"
   [[params.plugins.js]]
-  URL = "plugins/smooth-scroll/smooth-scroll.js"
+  URL = "themes/parsa-hugo/static/plugins/smooth-scroll/smooth-scroll.js"
   [[params.plugins.js]]
-  URL = "plugins/search/fuse.min.js"
+  URL = "themes/parsa-hugo/static/plugins/search/fuse.min.js"
   [[params.plugins.js]]
-  URL = "plugins/search/mark.js"
+  URL = "themes/parsa-hugo/static/plugins/search/mark.js"
   [[params.plugins.js]]
-  URL = "plugins/search/search.js"
+  URL = "themes/parsa-hugo/static/plugins/search/search.js"
 
 
 
