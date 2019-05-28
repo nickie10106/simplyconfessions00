@@ -14,7 +14,7 @@ paginate = 6
 
   # CSS Plugins
   [[params.plugins.css]]
-  URL = "themes/parsa-hugo/static/plugins/bootstrap/bootstrap.min.css"
+  URL = "plugins/bootstrap/bootstrap.min.css"
   [[params.plugins.css]]
   URL = "themes/parsa-hugo/static/plugins/slick/slick.css"
   [[params.plugins.css]]
