@@ -9,12 +9,6 @@ paginate = 6
   home = ["HTML", "AMP", "RSS", "JSON"]
   page = ["HTML"]
 
-#CSS
-  URL = "themes/assets/css/style.css"
-
-  #js
-  URL = "themes/assets/js/script.js"
-
 # Plugins
 [params.plugins]
 
