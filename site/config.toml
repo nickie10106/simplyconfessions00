@@ -1,4 +1,4 @@
-baseURL = "simplyconfessions.com"
+baseURL = "http://simplyconfessions.com"
 languageCode = "en-us"
 title = "Simply Confessions"
 theme = "parsa-hugo"
