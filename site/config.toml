@@ -12,7 +12,7 @@ canonifyurls = true
 [params]
   description = "this is my description"
   cover = "images/cover.jpg"
-  author = "Valère JEANTET"
+  author = "Nickie"
   authorlocation = "Paris, France"
   authorwebsite = "http://vjeantet.fr"
   bio= "my bio"
