@@ -1,5 +1,5 @@
-baseurl = "https://www.simplyconfessions.com"
-title = "Universal"
+baseurl = "https://simplyconfessions.com"
+title = "Simply Confessions"
 theme = "hugo-universal-theme"
 themesDir = "../.."
 languageCode = "en-us"
@@ -20,7 +20,7 @@ paginate = 10
 [[menu.main]]
     identifier="home"
     name = "Home"
-    url  = "https://www.simplyconfessions.com"
+    url  = "https://simplyconfessions.com"
     weight = 1
 
 [[menu.main]]
@@ -46,7 +46,7 @@ paginate = 10
 [[menu.topbar]]
     weight = 1
     name = "GitHub"
-    url = "https://www.simplyconfessions.com"
+    url = "https://simplyconfessions.com"
     pre = "<i class='fa fa-2x fa-github'></i>"
 
 [[menu.topbar]]
