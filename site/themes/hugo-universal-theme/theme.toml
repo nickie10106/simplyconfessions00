@@ -2,7 +2,7 @@ name = "Universal"
 license = "MIT"
 licenselink = "https://github.com/devcows/hugo-universal-theme/blob/master/LICENSE"
 description = "A port of the Universal theme"
-homepage = "https://www.simplyconfessions.com"
+homepage = "//github.com/devcows/hugo-universal-theme"
 tags = ["blog", "company", "portfolio", "projects", "minimal", "responsive"]
 features = ["blog", "themes", "disqus", "minimal", "responsive"]
 min_version = 0.15
@@ -14,4 +14,4 @@ min_version = 0.15
 # If Porting existing theme
 [original]
     author =  "bootstrapious"
-    homepage = "https://www.simplyconfessions.com"
+    homepage = "http://bootstrapious.com/p/universal-business-e-commerce-template"
