@@ -78,8 +78,8 @@ paginate = 10
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
 
-    logo = "images/logo.png"
-    logo_small = "images/logo-small.png"
+    logo = "logo/logo.png"
+    logo_small = "logo/logo-small.png"
     latitude = "39.2645° N"
     longitude = "26.2777° E"
     direction = "Desamparados Station, Distrito de Lima 15001, Peru"
