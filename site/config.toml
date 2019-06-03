@@ -29,9 +29,9 @@ paginate = 10
     weight = 2
 
 [[menu.main]]
-    identifier = "faq"
-    name = "FAQ"
-    url  = "/faq/"
+    identifier = "ask"
+    name = "Ask"
+    url  = "/ask/"
     weight = 3
 
 [[menu.main]]
@@ -90,7 +90,7 @@ paginate = 10
 # Enable or disable top bar with social icons
 [params.topbar]
     enable = true
-    text = """<p class="hidden-sm hidden-xs">Contact us on +420 777 555 333 or hello@universal.com.</p>
+    text = """<p class="hidden-sm hidden-xs">Contact us at simplyconfessions@gmail.com.</p>
       <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fa fa-phone"></i></a>
       <a href="#" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
       </p>
@@ -116,10 +116,10 @@ paginate = 10
 
 [params.see_more]
     enable = true
-    icon = "fa fa-file-code-o"
+    icon = "fa fa-bullhorn"
     title = "Need some advise?"
     subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
-    link_url = "/ask/"
+    link_url = "/contact/ask"
     link_text = "Check other homepages"
 
 [params.recent_posts]
