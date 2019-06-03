@@ -19,7 +19,7 @@ More complete instructions are available at [installing hugo](/overview/installi
 
 Hugo has its own example site which happens to also be the documentation site
 you are reading right now.
-n
+
 Follow the following steps:
 
  1. Clone the [hugo repository](http://github.com/spf13/hugo)
