@@ -1,4 +1,4 @@
-baseurl = "https://simplyconfessions.com"
+baseurl = "www.simplyconfessions.com"
 title = "Simply Confessions"
 theme = "hugo-universal-theme"
 themesDir = "../.."
