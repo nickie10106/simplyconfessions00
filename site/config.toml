@@ -1,4 +1,4 @@
-baseurl = "https://simplyconfessions.com"
+baseurl = "https://www.simplyconfessions.com"
 title = "Universal"
 theme = "hugo-universal-theme"
 themesDir = "../.."
@@ -20,7 +20,7 @@ paginate = 10
 [[menu.main]]
     identifier="home"
     name = "Home"
-    url  = "/"
+    url  = "https://www.simplyconfessions.com"
     weight = 1
 
 [[menu.main]]
