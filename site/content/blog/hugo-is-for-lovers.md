@@ -8,11 +8,11 @@ banner = "/img/banners/banner-3.jpg"
 
 ##Do Not Look At Your Phone
 
-![phones are a distraction](blogs/4:06/1.jpg)
+![phones are a distraction](images/blogs/4:06/1.jpg)
   Phones are a distraction. If you use it, you’ll never get anything on this list done! So, avoid looking at your phone first thing in the morning.
 
   Instead, be sure to look away as you slam your hand on your 10th or more alarm this morning so that you’re less distracted by the time and you can have a smooth transition into your morning routine.
-			
+
 2. Stretch and Do Some Yoga
 			- Stretching is great for both your physical and mental health. Make sure to extend your body so that you’ll be covering more surface area on your bed.
 			- It’ll be an added advantage if your blanket falls because, then, you’ll finally be able to get out of bed.
