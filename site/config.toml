@@ -69,7 +69,7 @@ paginate = 10
     # - you're done. Happy mailing!
     #
     # Enable the contact form by entering your Formspree.io email
-    email = "nickie10106@gmail.com"
+    email = "simplyconfessions00@gmail.com"
     contact_form_ajax = false
 
     about_us = "<p>Simply Confessions is parody beauty blog owned by Simply Nickie.</p>"
@@ -119,7 +119,7 @@ paginate = 10
     icon = "fa fa-bullhorn"
     title = "Need some advise?"
     subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
-    link_url = "/contact/ask"
+    link_url = "/ask/"
     link_text = "Check other homepages"
 
 [params.recent_posts]
