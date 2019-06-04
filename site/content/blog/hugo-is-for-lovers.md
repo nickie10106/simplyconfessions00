@@ -1,80 +1,27 @@
 +++
-title = "Hugo is for lovers"
-date = "2015-08-03T13:39:46+02:00"
-tags = ["hugo"]
-categories = ["pseudo"]
+title = "5 Morning Routines that will Get You to School On Time"
+date = "2019-06-04"
+tags = ["lifestyle"]
+categories = ["lifestyle"]
 banner = "/img/banners/banner-3.jpg"
 +++
 
-## Step 1. Install Hugo
+##Do Not Look At Your Phone
 
-Goto [hugo releases](https://github.com/spf13/hugo/releases) and download the
-appropriate version for your os and architecture.
+![phones are a distraction](blogs/4:06/1.jpg)
+  Phones are a distraction. If you use it, you’ll never get anything on this list done! So, avoid looking at your phone first thing in the morning.
 
-Save it somewhere specific as we will be using it in the next step.
+  Instead, be sure to look away as you slam your hand on your 10th or more alarm this morning so that you’re less distracted by the time and you can have a smooth transition into your morning routine.
+			
+2. Stretch and Do Some Yoga
+			- Stretching is great for both your physical and mental health. Make sure to extend your body so that you’ll be covering more surface area on your bed.
+			- It’ll be an added advantage if your blanket falls because, then, you’ll finally be able to get out of bed.
 
-More complete instructions are available at [installing hugo](/overview/installing/)
+		3. Rehydrate
+			- On to the next step in our routine. Always remember to rehydrate. Although your body is not supposed to naturally feel dehydrated after a good night’s sleep, it is safe to assume you didn’t have a good night’s sleep. I mean, thanks to the ever-growing competition in the world, a good night’s sleep has been unheard of. So, make sure you drink up!
 
-## Step 2. Build the Docs
+		4. Meditate
+			- So, make sure you save some time for meditation. And, by meditation, I mean make sure you remember to bring everything you need for school. It’s always good to be prepared. But, who are we kidding? Life’s unpredictable.
 
-Hugo has its own example site which happens to also be the documentation site
-you are reading right now.
-
-Follow the following steps:
-
- 1. Clone the [hugo repository](http://github.com/spf13/hugo)
- 2. Go into the repo
- 3. Run hugo in server mode and build the docs
- 4. Open your browser to http://localhost:1313
-
-Corresponding pseudo commands:
-
-    git clone https://github.com/spf13/hugo
-    cd hugo
-    /path/to/where/you/installed/hugo server --source=./docs
-    > 29 pages created
-    > 0 tags index created
-    > in 27 ms
-    > Web Server is available at http://localhost:1313
-    > Press ctrl+c to stop
-
-Once you've gotten here, follow along the rest of this page on your local build.
-
-## Step 3. Change the docs site
-
-Stop the Hugo process by hitting ctrl+c.
-
-Now we are going to run hugo again, but this time with hugo in watch mode.
-
-    /path/to/hugo/from/step/1/hugo server --source=./docs --watch
-    > 29 pages created
-    > 0 tags index created
-    > in 27 ms
-    > Web Server is available at http://localhost:1313
-    > Watching for changes in /Users/spf13/Code/hugo/docs/content
-    > Press ctrl+c to stop
-
-
-Open your [favorite editor](http://vim.spf13.com) and change one of the source
-content pages. How about changing this very file to *fix the typo*. How about changing this very file to *fix the typo*.
-
-Content files are found in `docs/content/`. Unless otherwise specified, files
-are located at the same relative location as the url, in our case
-`docs/content/overview/quickstart.md`.
-
-Change and save this file.. Notice what happened in your terminal.
-
-    > Change detected, rebuilding site
-
-    > 29 pages created
-    > 0 tags index created
-    > in 26 ms
-
-Refresh the browser and observe that the typo is now fixed.
-
-Notice how quick that was. Try to refresh the site before it's finished building.. I double dare you.
-Having nearly instant feedback enables you to have your creativity flow without waiting for long builds.
-
-## Step 4. Have fun
-
-The best way to learn something is to play with it.
+		5. Have Some Fruit for Breakfast
+			- Cause that’s all you have time for. By now, you have 6 minutes to get to school before you’re late. It’s just an added benefit that an apple a day keeps the doctor away.
