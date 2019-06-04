@@ -1,6 +1,6 @@
 +++
 title = "About Us"
-id = "AboutUs"
+id = "about"
 +++
 
 # We are here to help you
