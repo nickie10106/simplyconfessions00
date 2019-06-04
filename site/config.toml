@@ -30,7 +30,7 @@ paginate = 10
 
 [[menu.main]]
     identifier = "ask"
-    name = "Ask"
+    name = "Confessions"
     url  = "/ask/"
     weight = 3
 
