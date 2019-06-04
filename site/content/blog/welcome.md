@@ -6,4 +6,4 @@ categories = ["welcome"]
 banner = "/img/banners/banner-5.jpg"
 +++
 
-##Welcome to Simply Confessions
+## Welcome to Simply Confessions
