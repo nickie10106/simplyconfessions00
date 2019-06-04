@@ -9,13 +9,13 @@
   {{ if .Keywords }}
   <meta name="keywords" content="{{ delimit .Keywords ", " }}">
   {{ else if .Site.Params.DefaultKeywords }}
-  <meta name="keywords" content="{{ delimit .Site.Params.DefaultKeywords ", " }}">	
+  <meta name="keywords" content="{{ delimit .Site.Params.DefaultKeywords ", " }}">
   {{ end }}
 
   {{ if .Description }}
   <meta name="description" content="{{ .Description }}">
   {{ else if .Site.Params.DefaultDescription }}
-  <meta name="description" content="{{ .Site.Params.DefaultDescription }}">	
+  <meta name="description" content="{{ .Site.Params.DefaultDescription }}">
   {{ end }}
 
   {{ .Hugo.Generator }}
@@ -49,9 +49,13 @@
   ` | safeHTML }}
 
   <!-- Favicon and apple touch icons-->
-  <link rel="shortcut icon" href="{{ "img/favicon.ico" | relURL }}" type="image/x-icon" />
-  <link rel="apple-touch-icon" href="{{ "img/apple-touch-icon.png" | relURL }}" />
-  <!-- owl carousel css -->
+  <link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
+<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
+<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
+<link rel="manifest" href="/site.webmanifest">
+<link rel="mask-icon" href="/safari-pinned-tab.svg" color="#5bbad5">
+<meta name="msapplication-TileColor" content="#da532c">
+<meta name="theme-color" content="#ffffff">
 
   <link href="{{ "css/owl.carousel.css" | relURL}}" rel="stylesheet">
   <link href="{{ "css/owl.theme.css" | relURL}}" rel="stylesheet">
