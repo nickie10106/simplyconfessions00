@@ -19,7 +19,7 @@ paginate = 10
 [[menu.main]]
     identifier="about"
     name = "About Us"
-    url  = "content/about.md"
+    url  = "about"
     weight = 1
 
 [[menu.main]]
