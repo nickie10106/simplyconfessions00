@@ -118,7 +118,7 @@ paginate = 10
     enable = true
     icon = "fa fa-bullhorn"
     title = "Need some advise?"
-    subtitle = "We have prepared for you more than 40 different HTML pages, including 5 variations of homepage."
+    subtitle = "Send in a confession and it might be featured on #SundayConfession."
     link_url = "/ask/"
     link_text = "Confess Your Truths"
 
