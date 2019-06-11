@@ -15,24 +15,29 @@ paginate = 10
 [menu]
 
 # Main menu
+[[menu.main]]
+    identifier="about"
+    name = "About Us"
+    url  = "/about/"
+    weight = 1
 
 [[menu.main]]
     identifier="blog"
     name = "Blog"
     url  = "/blog/"
-    weight = 1
+    weight = 2
 
 [[menu.main]]
     identifier = "ask"
     name = "Confessions"
     url  = "/ask/"
-    weight = 2
+    weight = 3
 
 [[menu.main]]
     identifier = "contact"
     name = "Contact"
     url  = "/contact/"
-    weight = 3
+    weight = 4
 
 [params]
     viewMorePostLink = "/blog/"
