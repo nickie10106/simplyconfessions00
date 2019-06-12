@@ -66,7 +66,7 @@ paginate = 10
     email = "simplyconfessions00@gmail.com"
     contact_form_ajax = false
 
-    about_us = "<p>Simply Confessions is parody beauty blog owned by Simply Nickie.</p>"
+    about_us = "<p>Simply Confessions claims to be a fashion, beauty and lifestyle blog but we post articles about anything and everything because why not?</p>"
     copyright = "Copyright (c) 2019, Simply Confessions; all rights reserved."
 
     # Format dates with Go's time formatting
@@ -119,4 +119,3 @@ paginate = 10
 [params.recent_posts]
     enable = true
     title = "Blog"
-    subtitle = "Open your eyes to the quirkiness and beauty of the world around us."
