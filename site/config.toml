@@ -37,7 +37,7 @@ paginate = 10
 [params]
     viewMorePostLink = "/blog/"
     author = "Nickie"
-    defaultKeywords = ["simplyconfessions", "hugo", "go", "confessions", "beauty", "lifstyle", "fashion"]
+    defaultKeywords = ["simplyconfessions", "hugo", "go", "confessions", "beauty", "lifstyle", "fashion","disney movies", "tv series"]
     defaultDescription = "xoxo"
 
     # Twitter
@@ -84,7 +84,7 @@ paginate = 10
 # Enable or disable top bar with social icons
 [params.topbar]
     enable = true
-    text = """<p class="hidden-sm hidden-xs">Contact us at simplyconfessions@gmail.com.</p>
+    text = """<p class="hidden-sm hidden-xs">Contact us at simplyconfessions00@gmail.com.</p>
       <p class="hidden-md hidden-lg"><a href="#" data-animate-hover="pulse"><i class="fa fa-phone"></i></a>
       <a href="#" data-animate-hover="pulse"><i class="fa fa-envelope"></i></a>
       </p>
