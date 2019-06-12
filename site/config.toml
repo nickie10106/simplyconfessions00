@@ -38,7 +38,7 @@ paginate = 10
     viewMorePostLink = "/blog/"
     author = "Nickie"
     defaultKeywords = ["simplyconfessions", "hugo", "go", "confessions", "beauty", "lifstyle", "fashion","disney movies", "tv series", "simply confessions", "disney", "simply", "confessions", "blog", "fashion blog"]
-    defaultDescription = "Simply Confession is a fashion, beauty and lifestyle blog."
+    defaultDescription = "Simply Confession is a fashion, beauty and lifestyle blog. Join in on #SundayConfessions by sending in a confession and have it featured on the site."
 
     # Twitter
     twitter = "@simplyconfessi2"
